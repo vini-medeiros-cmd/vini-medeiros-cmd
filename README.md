@@ -38,13 +38,10 @@ Meu foco é resolver problemas reais de negócio por meio de código limpo, arqu
 
 ## Projetos em destaque
 
-🚧 Projetos em fase de organização e publicação.
-
-Em breve:
-- Automação de processos com Python
-- Integrações com APIs corporativas
-- Processamento de planilhas e dados
-- Sistemas internos para fluxos operacionais
+- Automação de processos com Python.
+- Integrações com APIs corporativas.
+- Processamento de planilhas e dados.
+- Sistemas internos para fluxos operacionais.
 
 ---
 
