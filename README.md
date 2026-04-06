@@ -2,7 +2,7 @@
 
 **Engenheiro de Software** · Automação de Processos · Integração de Sistemas · Desenvolvimento Back-end
 
-Construo sistemas que eliminam trabalho manual — desde automações internas até integrações entre plataformas corporativas.
+Construo sistemas que eliminam trabalho manual - desde automações internas até integrações entre plataformas corporativas.
 
 Meu foco é resolver problemas reais de negócio por meio de código limpo, arquitetura escalável e fluxos bem estruturados.
 
