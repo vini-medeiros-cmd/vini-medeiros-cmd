@@ -49,7 +49,3 @@ Meu foco é resolver problemas reais de negócio por meio de código limpo, arqu
 
 [LinkedIn](https://www.linkedin.com/in/viniciusrmedeiros)
 [GitHub](https://github.com/vini-medeiros-cmd)
-
----
-
-*Aberto a oportunidades em Engenharia de Software, Desenvolvimento Back-end e Automação de Processos.*
