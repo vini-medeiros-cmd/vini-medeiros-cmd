@@ -56,7 +56,6 @@ Atuo há alguns anos numa empresa de gestão em saúde ocupacional e segurança 
 | **Automação de relatórios de saúde ocupacional** | Python · REST · SOAP · openpyxl | Script que gera relatórios mensais em Excel para dezenas de empresas-cliente, integrando duas APIs corporativas distintas (leitura via REST, gravação via SOAP) com mapeamento personalizado de campos clínicos. |
 | **Validação diária de exames por agenda** | Python · REST API · HTML | Rotina de validação automática que cruza agenda, pedidos e resultados de exames, gerando relatório HTML colorido entregue diariamente às equipes operacionais — eliminou checagens manuais recorrentes. |
 | **Plataforma de estatísticas de futebol** | Next.js · TypeScript · Supabase (Postgres/Auth) · Tailwind · Vitest | MVP com médias históricas de jogadores do Brasileirão (chutes, faltas, cartões, gols/assistências), com filtro por time e mando de campo. Ingestão diária de dados via job agendado (Vercel Cron), testes automatizados e migrations de banco versionadas. |
-| **Calculadora de IMC** | HTML · CSS · JavaScript | Calculadora com validação em tempo real, classificação por faixa (OMS) e histórico salvo em `localStorage`. |
 | **App de fitness pessoal** | React · Vite · Capacitor | Aplicação PWA empacotada também como APK Android, para acompanhamento de treinos e metas pessoais. |
 
 > Os projetos corporativos acima envolvem sistemas internos de terceiros — o código roda em repositórios privados. Os detalhes técnicos e a lógica de automação estão descritos aqui.
