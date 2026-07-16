@@ -54,17 +54,13 @@ Atuo há alguns anos numa empresa de gestão em saúde ocupacional e segurança 
 | **Calculadora de IMC** | HTML · CSS · JavaScript | Calculadora com validação em tempo real, classificação por faixa (OMS) e histórico salvo em `localStorage`. |
 | **App de fitness pessoal** | React · Vite · Capacitor | Aplicação PWA empacotada também como APK Android, para acompanhamento de treinos e metas pessoais. |
 
-> Os projetos corporativos acima envolvem sistemas internos de terceiros — o código roda em repositórios privados. Os detalhes técnicos e a lógica de automação estão descritos aqui; acesso ao código sob demanda.
+> Os projetos corporativos acima envolvem sistemas internos de terceiros — o código roda em repositórios privados. Os detalhes técnicos e a lógica de automação estão descritos aqui.
 
 ---
 
 ## Formação e certificações
 
 **Engenharia de Software** — Estácio (2020 – 2024)
-
-- Privacidade e Proteção de Dados (LGPD) — SENAI
-- Lógica de Programação — SENAI
-- Montagem, Manutenção de Computadores e Redes — Microlins
 
 ---
 
