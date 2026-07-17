@@ -2,9 +2,9 @@
 
 **Engenheiro de Software** · Automação de Processos · Integração de Sistemas · Back-end
 
-Construo sistemas que eliminam trabalho manual — desde automações internas até integrações entre plataformas corporativas. Combino capacidade técnica (Python, APIs REST/SOAP, Flask) com visão de negócio e gestão de KPIs, transformando processos manuais em soluções escaláveis, documentadas e orientadas a dados.
+Construo sistemas que eliminam trabalho manual - desde automações internas até integrações entre plataformas corporativas. Combino capacidade técnica (Python, APIs REST/SOAP, Flask) com visão de negócio e gestão de KPIs, transformando processos manuais em soluções escaláveis, documentadas e orientadas a dados.
 
-Atuo há alguns anos numa empresa de gestão em saúde ocupacional e segurança do trabalho, onde lidero a estruturação de processos e automações internas — hoje buscando migrar minha atuação cada vez mais para o desenvolvimento full stack.
+Atuo há alguns anos em uma empresa de gestão em saúde ocupacional e segurança do trabalho, onde acompanho e lidero a estruturação de processos e a implementação de automações internas. Atualmente, estou direcionando minha trajetória para o desenvolvimento full stack, buscando cada vez mais integrar tecnologia e inovação às soluções do setor.
 
 ---
 
