@@ -72,7 +72,3 @@ Atuo há alguns anos em uma empresa de gestão em saúde ocupacional e seguranç
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusrmedeiros)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vini-medeiros-cmd)
-
----
-
-<sub>Aberto a oportunidades em desenvolvimento back-end, full stack e automação de processos.</sub>
